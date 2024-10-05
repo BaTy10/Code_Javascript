@@ -1,0 +1,2 @@
+console.log("Xin chao");
+
